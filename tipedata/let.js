@@ -1,5 +1,9 @@
 // tipe data di js
-let data =true;
-document.write(data);
+let data =12;
+let data2 =13;
+document.write(data+data2);
 document.write('<br/>');
-document.write(typeof data);
+document.write(`data ${data2} tipenya ${typeof data2}`);
+
+
+    
