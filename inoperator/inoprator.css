@@ -1,0 +1,8 @@
+h1{
+    text-align:center;
+    text-transform: capitalize;
+    color: brown;
+    background: rgb(237, 230, 20);
+    border-radius: 30px;
+    z-index: 2000;
+}
