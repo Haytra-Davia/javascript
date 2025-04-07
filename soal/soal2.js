@@ -109,3 +109,5 @@ for (let i = 1; i <= 5; i++) {
 
 //124
 // karena angka 3 kena di continue dan angka 5 kena break langsug terhenti
+
+//** soal 10 */
